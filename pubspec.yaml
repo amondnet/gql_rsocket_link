@@ -1,7 +1,7 @@
 name: gql_rsocket_link
 description: GQL Terminating Link to execute requests via RSocket using JSON.
 version: 0.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/amondnet/gql_rsocket_link
 
 environment:
   sdk: '>=2.16.1 <3.0.0'
